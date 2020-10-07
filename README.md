@@ -1,3 +1,6 @@
+#TLDR
+Its  pet project to learn about svelte and sapper.
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
