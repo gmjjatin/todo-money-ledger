@@ -1,5 +1,5 @@
 #TLDR
-Its  pet project to learn about svelte and sapper.
+Its  pet project to learn about [svelte](https://svelte.dev/) and [Sapper](https://github.com/sveltejs/sapper).
 
 # sapper-template
 
