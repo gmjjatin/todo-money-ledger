@@ -3,7 +3,7 @@ This project helps to learn about Svelte.
 
 #TLDR
 Its  pet project to learn about [svelte](https://svelte.dev/) and [Sapper](https://github.com/sveltejs/sapper).
-It uses svelte templates and css3.
+It uses svelte templates and css3. Simple todo app.
 
 # sapper-template
 
